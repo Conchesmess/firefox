@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Conches
+Icon=/home/ccpa/Pictures/icons/conch.ico
+Exec=/home/ccpa/bin/firefox/.venv/bin/python /home/ccpa/bin/firefox/firefox_conches.py
+Encoding=UTF-8
+Version=1.0
+Terminal=false

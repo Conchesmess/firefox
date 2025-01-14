@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OUSD
+Icon=/home/ccpa/Pictures/icons/ousd.ico
+Exec=/home/ccpa/bin/firefox/.venv/bin/python /home/ccpa/bin/firefox/firefox_ousd.py
+Encoding=UTF-8
+Version=1.0
+Terminal=false
